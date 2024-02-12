@@ -6,3 +6,6 @@ this is my readme of demo application of github
 and its just awesome
 
 this only works in the staging area
+
+
+difference between git restore and git rm --cached
